@@ -1,4 +1,4 @@
-# [💻 LiveTerm - build terminal styled websites in minutes!](https://liveterm.vercel.app)
+# [💻 Code - build terminal styled websites in minutes!](https://liveterm.vercel.app)
 
 Highly customizable, easy-to-use, and minimal terminal styled website template, powered by Next.js.
 
